@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.29.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-express-v0.28.0...instrumentation-express-v0.29.0) (2022-04-18)
+
+
+### Features
+
+* add supported node versions for all packages ([#973](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/973)) ([baaacbd](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/baaacbdd35ca4baab0afae64647aa8c0380ee4b7))
+
+
+### Bug Fixes
+
+* correctly disable Express instrumentation ([#972](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/972)) ([b55b79b](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/b55b79b72451c65080e01c2ec11655cabd5f65d9))
+
 ## [0.28.0](https://www.github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-express-v0.27.1...instrumentation-express-v0.28.0) (2022-02-06)
 
 

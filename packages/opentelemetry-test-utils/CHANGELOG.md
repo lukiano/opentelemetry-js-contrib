@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.30.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/contrib-test-utils-v0.29.0...contrib-test-utils-v0.30.0) (2022-04-18)
+
+
+### Features
+
+* add supported node versions for all packages ([#973](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/973)) ([baaacbd](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/baaacbdd35ca4baab0afae64647aa8c0380ee4b7))
+
 ## [0.29.0](https://www.github.com/open-telemetry/opentelemetry-js-contrib/compare/contrib-test-utils-v0.28.0...contrib-test-utils-v0.29.0) (2022-01-24)
 
 

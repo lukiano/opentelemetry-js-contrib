@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.29.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-amqplib-v0.28.0...instrumentation-amqplib-v0.29.0) (2022-04-18)
+
+
+### Features
+
+* add supported node versions for all packages ([#973](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/973)) ([baaacbd](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/baaacbdd35ca4baab0afae64647aa8c0380ee4b7))
+
+
+### Bug Fixes
+
+* **amqplib:** add missing rabbit service to CI daily run ([#946](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/946)) ([5f63606](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/5f63606ee983b598d2ad8260e2fb2399cda29a7b))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @opentelemetry/contrib-test-utils bumped from ^0.28.0 to ^0.30.0
+
 ## [0.28.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-amqplib-v0.27.0...instrumentation-amqplib-v0.28.0) (2022-03-14)
 
 

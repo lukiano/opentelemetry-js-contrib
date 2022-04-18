@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.30.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mongodb-v0.29.0...instrumentation-mongodb-v0.30.0) (2022-04-18)
+
+
+### Features
+
+* add supported node versions for all packages ([#973](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/973)) ([baaacbd](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/baaacbdd35ca4baab0afae64647aa8c0380ee4b7))
+
+
+### Bug Fixes
+
+* skip mongodb TAV runs on node 8 and 10 ([#949](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/949)) ([00b1a94](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/00b1a9472ed21f6dfe427543a407e559b1cfe08a))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @opentelemetry/contrib-test-utils bumped from ^0.29.0 to ^0.30.0
+
 ## [0.29.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mongodb-v0.28.0...instrumentation-mongodb-v0.29.0) (2022-03-02)
 
 
